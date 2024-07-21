@@ -1,0 +1,32 @@
+html {
+    font-size: 20px;
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    background-color: beige;
+}
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color:lightgrey;
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(0, 0, 0);
+  }
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    text-align: center;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+    background-color: lightgrey;
+  }
+  
+  p,
+  li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
